@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 Currently working on: RAG-based GenAI applications and end-to-end ML pipelines<br>🌱 Currently learning: Advanced NLP, LLM fine-tuning, and MLOps/CI-CD automation<br>👯 Looking to collaborate on: Open-source AI/ML and GenAI projects<br>🤔 Looking for help with: Scaling and deploying ML models in production<br>💬 Ask me about: Machine Learning, Deep Learning, NLP, RAG, LangChain, MLOps<br>📫 How to reach me: sushmanjannu18@gmail.com
 
 
