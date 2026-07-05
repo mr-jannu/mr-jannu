@@ -1,3 +1,15 @@
+<h1 align="center">
+Hi 👋, I'm  Sushman Jannu
+</h1>
+
+<h3 align="center">
+AI/ML Engineer • GenAI Developer • Building Intelligent Applications 
+</h3>
+
+<p align="center">
+💡 Passionate about Machine Learning, LLMs, RAG Systems, MLOps & Scalable AI Solutions
+</p>
+
 ##  About Me
 
 - 🔭 **Currently working on:** RAG-based GenAI applications and end-to-end ML pipelines
